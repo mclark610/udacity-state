@@ -18,6 +18,10 @@ h2 {
   font-size: 1.2em;
 }
 
+.score {
+    color: #306482;
+    font-size: 1.7rem;
+}
 button {
   background: #38aceb;
   background-image: -webkit-linear-gradient(top, #38aceb, #236e96);
